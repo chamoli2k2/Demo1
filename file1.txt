@@ -29,4 +29,17 @@ Working Directory -> Staging area -> local repository -> Remote repository
 concept of merging the file :
 We make branches in project so that we can do work differently , and in the end we merge all branches to main branch .
 
+11) git branch branch_name : to make new branch
+
+12) git branch : to see all branches
+
+13) git checkout branch_name : to switch to that branch
+
+
+How to work on Project
+
+1) step 1 : fork the repository (fork means copying the someones's remote repository in your remote repository) and than working on in
+    in our local machine.
+
+2) step 2 : after the work we need to pull request to owner of repo if he find our contribution worthy he will merge it in main branch
    
