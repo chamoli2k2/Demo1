@@ -15,3 +15,6 @@
 7) git diff file_name : to see the changes in file after the staging
 
 8) git checkout file_name to :to go to previous version of file 
+
+
+Working Directory -> Staging area -> local repository -> Remote repository
