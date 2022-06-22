@@ -14,7 +14,19 @@
 
 7) git diff file_name : to see the changes in file after the staging
 
-8) git checkout file_name to :to go to previous version of file 
+8) git checkout file_name to : to go to previous version of file 
+
+9) git remote (url of repository) : to connect local repo with remote repo
+
+10) git remote -u origin master : to push to remote repository
+
+
 
 
 Working Directory -> Staging area -> local repository -> Remote repository
+
+
+concept of merging the file :
+We make branches in project so that we can do work differently , and in the end we merge all branches to main branch .
+
+   
