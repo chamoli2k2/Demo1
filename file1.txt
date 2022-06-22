@@ -1,1 +1,17 @@
-Hello, My name is Gaurav chamoli. I studied in School of Engineering, JNU New Delhi.
+// GitHub impotant commands
+
+1) git init : to initiase the directory you working in
+
+2) git add file_name : to add file in staging area
+
+3) git add . : to add all file in directory to the staging area
+
+4) git log : to see the commit history
+
+5) git status : to see the directory status
+
+6) git commit -m " message " : to commit the staged files
+
+7) git diff file_name : to see the changes in file after the staging
+
+8) git checkout file_name to :to go to previous version of file 
